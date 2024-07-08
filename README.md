@@ -15,8 +15,8 @@ This project is an Industrial Control System (ICS) Network Monitor tool built us
 ## Installation
 
 1. *Clone the repository:*
-   git clone https://github.com/yourusername/ics_network_monitor.git
-   cd ics_network_monitor
+   git clone https://github.com/trojansteve/ICSGUARD.git
+   cd ICSGUARD
    
 
 2. *Install the required dependencies:*
